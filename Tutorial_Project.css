@@ -1,0 +1,121 @@
+﻿@import url(https://fonts.googleapis.com/css2?family=Raleway&display=swap);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial Rounded MT', Arial, Helvetica, sans-serif;
+    background: #ffffff;
+    line-height: 1.5;
+}
+
+.tutorialBody {
+    max-width: 1164px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 3rem;
+    font-family: Raleway, 'Arial Rounded MT', Arial, Helvetica, sans-serif;
+    background-color: #fff;
+    line-height: 1.5;
+}
+
+.container {
+    min-height: 590px;
+    background: #e6e6e6;
+    margin: 0 auto;
+    padding: 0;
+    background-image: url("../assets/images/grey.jpg");
+}
+
+.section-hero {
+    width: 100%;
+    height: 600px;
+    margin: 0;
+    padding-top: 22%;
+    overflow-y: hidden;
+    line-height: 1.5;
+}
+
+    .section-hero h2 {
+        color: #ff9393;
+    }
+
+
+#tutorial-steps h2 {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+#h3-color {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(45, 163, 143);
+}  
+
+#step-one {
+    border-top: solid lightgrey;
+    text-align: center;
+    padding-top: 60px;
+    margin-top: 60px;
+}
+
+#step-two {
+    border-top: solid lightgrey;
+    text-align: center;
+    padding-top: 60px;
+    margin-top: 60px;
+}
+
+#step-three {
+    border-top: solid lightgrey;
+    text-align: center;
+    padding-top: 60px;
+    margin-top: 60px;
+}
+
+#step-four {
+    border-top: solid lightgrey;
+    text-align: center;
+    padding-top: 60px;
+    margin-top: 60px;
+}
+
+#step-five {
+    border-top: solid lightgrey;
+    text-align: center;
+    padding-top: 60px;
+    margin-top: 60px;
+}
+
+#step-six {
+    border-top: solid lightgrey;
+    text-align: center;
+    padding-top: 60px;
+    margin-top: 60px;
+}
+
+#cmd-pics {
+    height: 435px;
+    width: 650px;
+}
+
+#cmd-pic4 {
+    height: 210px;
+    width: 300px;
+}
+
+i {
+    font-size: 42px;
+    letter-spacing: 14px;
+}
+
+#welcome-pic {
+    height: 670px;
+    width: 925px;
+}
+
+#ember-test-server {
+    width: 925px;
+}
